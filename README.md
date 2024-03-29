@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+- 🔭 I’m currently in Hyperion bootcamp to become a software engineer.
+- 🌱 I’m currently learning Python and looking to do some advance projects soon.
+- 👯 I’m looking to collaborate on Python related projects.
+- 🤔 I’m hoping to find a volunteer mentor that can guide me on this journey.
+- 💬 Ask me about UX design, website development and grahics design.
+- 📫 How to reach me: ayoojurongbe@gmail.com
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: When I'm not debugging code, you'll find me on the basketball court perfecting my crossover dribble and three-point shot. 🏀💻
+![My profile picture](https://www.dropbox.com/scl/fi/f012ugp7fun7qbswi1du2/ayo_wearing_black_suit.jpeg?rlkey=88hnx3j9f0m97g0nxwc4eb4sk&dl=0)
 <!--
 **ayodejioju/ayodejioju** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
