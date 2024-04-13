@@ -1,7 +1,8 @@
 ### Hi there 👋
 
-- 🔭 I’m currently in Hyperion bootcamp to become a software engineer.
-- 🌱 I’m currently learning Python and looking to do some advance projects soon.
+- 🔭Got it! Here's a revised version without the YouTube reference:
+
+Independent full-stack developer, UX designer, and content creator with a background in engineering physics, I'm committed to crafting innovative solutions and creative designs that shape the digital landscape. From project inception to execution, I apply scientific rigor and artistic flair to tackle challenges and deliver impactful results. With a focus on problem-solving and user-centric design, my work reflects a passion for excellence and a drive to make a difference..
 - 👯 I’m looking to collaborate on Python related projects.
 - 🤔 I’m hoping to find a volunteer mentor that can guide me on this journey.
 - 💬 Ask me about UX design, website development and grahics design.
