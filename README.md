@@ -1,12 +1,13 @@
 ### Hi there 👋
 
-- 🔭Got it! Here's a revised version without the YouTube reference:
+- 🔭
+<code>Got it! Here's a revised version without the YouTube reference</code>
 
 Independent full-stack developer, UX designer, and content creator with a background in engineering physics, I'm committed to crafting innovative solutions and creative designs that shape the digital landscape. From project inception to execution, I apply scientific rigor and artistic flair to tackle challenges and deliver impactful results. With a focus on problem-solving and user-centric design, my work reflects a passion for excellence and a drive to make a difference..
 - 👯 I’m looking to collaborate on Python related projects.
 - 🤔 I’m hoping to find a volunteer mentor that can guide me on this journey.
 - 💬 Ask me about UX design, website development and grahics design.
-- 📫 How to reach me: ayoojurongbe@gmail.com
+- 📫 How to reach me: codesbyayo@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: When I'm not debugging code, you'll find me on the basketball court perfecting my crossover dribble and three-point shot. 🏀💻
 ![My profile picture](https://github.com/ayodejioju/ayodejioju/issues/1#issue-2215426662)
