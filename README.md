@@ -1,12 +1,11 @@
-### Hi there 👋
+### Ayodeji Ojurongbe 👋
 
-- 🔭
-<code>Got it! Here's a revised version without the YouTube reference</code>
+🔭
+<code>full-stack developer, UX designer</code>
 
-Independent full-stack developer, UX designer, and content creator with a background in engineering physics, I'm committed to crafting innovative solutions and creative designs that shape the digital landscape. From project inception to execution, I apply scientific rigor and artistic flair to tackle challenges and deliver impactful results. With a focus on problem-solving and user-centric design, my work reflects a passion for excellence and a drive to make a difference..
+Background in engineering physics and committed to crafting innovative solutions and creative designs that shape the digital landscape. From project inception to execution, I apply scientific rigor and artistic flair to tackle challenges and deliver impactful results. With a focus on problem-solving and user-centric design, my work reflects a passion for excellence and a drive to make a difference.
 
 ![GitHub followers](https://img.shields.io/github/followers/ayodejioju?style=for-the-badge&logo=github&logoColor=%23FFD700&labelColor=%23593825&color=%230400BF)
-
 <p align="left" dir="auto">
       <a href="https://twitter.com/itsrichayo" rel="nofollow">
          <img alt="X follower" title="Follow me on X" src="https://twitter.com/itsrichayo/verified_followers" data-canonical-src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UC2WHjPDvbE6O328n17ZGcfg?color=%23E05D44&amp;label=SUBSCRIBE&amp;logo=video&amp;logoColor=white&amp;style=for-the-badge&amp;labelColor=CE4630" style="max-width: 100%;"></a> 
