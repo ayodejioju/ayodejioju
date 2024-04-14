@@ -5,9 +5,8 @@
 
 Background in engineering physics and committed to crafting innovative solutions and creative designs that shape the digital landscape. From project inception to execution, I apply scientific rigor and artistic flair to tackle challenges and deliver impactful results. With a focus on problem-solving and user-centric design, my work reflects a passion for excellence and a drive to make a difference.
 
-![GitHub followers](https://img.shields.io/github/followers/ayodejioju?style=for-the-badge&logo=github&logoColor=%23FFD700&labelColor=%23593825&color=%230400BF)
-![X (formerly Twitter) URL](https://img.shields.io/twitter/url?url=https%3A%2F%2Ftwitter.com%2Fitsrichayo&style=for-the-badge&logo=x&logoColor=%23FFD700&labelColor=%23A65D03&color=%23FFD700) ![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/itsrichayo?style=for-the-badge&logo=X&logoColor=%23BF7E04&labelColor=%23A65D03&color=%23FFD700)
-![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/itsrichayo?style=for-the-badge&logo=X&logoColor=%23BF7E04&label=TWEETS&labelColor=%23A65D03&color=%23FFD700&link=https%3A%2F%2Ftwitter.com%2Fitsrichayo)
+[![GitHub followers](https://img.shields.io/github/followers/ayodejioju?style=for-the-badge&logo=github&logoColor=%23FFD700&labelColor=%23593825&color=%230400BF)](https://github.com/ayodejioju?tab=followers)
+[![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/itsrichayo?style=for-the-badge&logo=X&logoColor=%23BF7E04&label=TWEETS&labelColor=%23A65D03&color=%23FFD700)](https://twitter.com/itsrichayo)
 
 
 ## Tools & Languages
