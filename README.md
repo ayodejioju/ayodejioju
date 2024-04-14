@@ -1,4 +1,4 @@
-### Ayodeji Ojurongbe 👋
+## Ayodeji Ojurongbe 👋
 
 🔭
 <code>full-stack developer, UX designer</code>
@@ -6,24 +6,36 @@
 Background in engineering physics and committed to crafting innovative solutions and creative designs that shape the digital landscape. From project inception to execution, I apply scientific rigor and artistic flair to tackle challenges and deliver impactful results. With a focus on problem-solving and user-centric design, my work reflects a passion for excellence and a drive to make a difference.
 
 ![GitHub followers](https://img.shields.io/github/followers/ayodejioju?style=for-the-badge&logo=github&logoColor=%23FFD700&labelColor=%23593825&color=%230400BF)
-<p align="left" dir="auto">
-      <a href="https://twitter.com/itsrichayo" rel="nofollow">
-         <img alt="X follower" title="Follow me on X" src="https://twitter.com/itsrichayo/verified_followers" data-canonical-src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UC2WHjPDvbE6O328n17ZGcfg?color=%23E05D44&amp;label=SUBSCRIBE&amp;logo=video&amp;logoColor=white&amp;style=for-the-badge&amp;labelColor=CE4630" style="max-width: 100%;"></a> 
-      <a href="https://twitter.com/itsrichayo" rel="nofollow">
-         <img alt="youtube views" title="YouTube views" src="https://camo.githubusercontent.com/40c32c723029a643ad28062315a8d3d21ed726ea2e12a3f58cb821969ace8afb/68747470733a2f2f637573746f6d2d69636f6e2d6261646765732e64656d6f6c61622e636f6d2f796f75747562652f6368616e6e656c2f76696577732f55433257486a5044766245364f3332386e31375a476366673f636f6c6f723d253233453141443045266c6f676f3d657965266c6f676f436f6c6f723d7768697465267374796c653d666f722d7468652d6261646765266c6162656c436f6c6f723d433739363030" data-canonical-src="https://custom-icon-badges.demolab.com/youtube/channel/views/UC2WHjPDvbE6O328n17ZGcfg?color=%23E1AD0E&amp;logo=eye&amp;logoColor=white&amp;style=for-the-badge&amp;labelColor=C79600" style="max-width: 100%;"></a> 
-      <a href="https://github.com/ForrestKnight?tab=followers">
-         <img alt="followers" title="Follow me on Github" src="https://camo.githubusercontent.com/a6514ab4266783e4513270f3e2456ec04457a1e8d1df91e126a69e97b918d9f9/68747470733a2f2f637573746f6d2d69636f6e2d6261646765732e64656d6f6c61622e636f6d2f6769746875622f666f6c6c6f776572732f466f72726573744b6e696768743f636f6c6f723d323336616433266c6162656c436f6c6f723d313135356261267374796c653d666f722d7468652d6261646765266c6f676f3d706572736f6e2d616464266c6162656c3d466f6c6c6f77266c6f676f436f6c6f723d7768697465" data-canonical-src="https://custom-icon-badges.demolab.com/github/followers/ForrestKnight?color=236ad3&amp;labelColor=1155ba&amp;style=for-the-badge&amp;logo=person-add&amp;label=Follow&amp;logoColor=white" style="max-width: 100%;"></a>
-      <a href="https://github.com/ForrestKnight?tab=repositories&amp;sort=stargazers">
-         <img alt="total stars" title="Total stars on GitHub" src="https://camo.githubusercontent.com/ef393eea3461aaa14bb8058fb4254081e8ad411ebaabbc85e58cec14b82c96b2/68747470733a2f2f637573746f6d2d69636f6e2d6261646765732e64656d6f6c61622e636f6d2f6769746875622f73746172732f466f72726573744b6e696768743f636f6c6f723d353539363063267374796c653d666f722d7468652d6261646765266c6162656c436f6c6f723d343838323037266c6f676f3d73746172" data-canonical-src="https://custom-icon-badges.demolab.com/github/stars/ForrestKnight?color=55960c&amp;style=for-the-badge&amp;labelColor=488207&amp;logo=star" style="max-width: 100%;"></a>
-   </p>
+![X (formerly Twitter) URL](https://img.shields.io/twitter/url?url=https%3A%2F%2Ftwitter.com%2Fitsrichayo&style=for-the-badge&logo=x&logoColor=%23FFD700&labelColor=%23A65D03&color=%23FFD700)
+
+## Tools & Languages
+
+<div align="lefet">
+	<code><img width="30" src="https://user-images.githubusercontent.com/25181517/183570228-6a040b9f-3ddf-47a2-a201-743121dac664.png" alt="php" title="php"/></code>
+	<code><img width="30" src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png" alt="React" title="React"/></code>
+	<code><img width="30" src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png" alt="Python" title="Python"/></code>
+	<code><img width="30" src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" alt="HTML" title="HTML"/></code>
+	<code><img width="30" src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png" alt="CSS" title="CSS"/></code>
+	<code><img width="30" src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png" alt="JavaScript" title="JavaScript"/></code>
+	<code><img width="30" src="https://user-images.githubusercontent.com/25181517/183890595-779a7e64-3f43-4634-bad2-eceef4e80268.png" alt="Angular" title="Angular"/></code>
+	<code><img width="30" src="https://github.com/marwin1991/profile-technology-icons/assets/76662862/2481dc48-be6b-4ebb-9e8c-3b957efe69fa" alt="Linux" title="Linux"/></code>
+	<code><img width="30" src="https://user-images.githubusercontent.com/25181517/183896128-ec99105a-ec1a-4d85-b08b-1aa1620b2046.png" alt="MySQL" title="MySQL"/></code>
+	<code><img width="30" src="https://user-images.githubusercontent.com/25181517/182884177-d48a8579-2cd0-447a-b9a6-ffc7cb02560e.png" alt="mongoDB" title="mongoDB"/></code>
+	<code><img width="30" src="https://user-images.githubusercontent.com/25181517/183568594-85e280a7-0d7e-4d1a-9028-c8c2209e073c.png" alt="Node.js" title="Node.js"/></code>
+	<code><img width="30" src="https://user-images.githubusercontent.com/25181517/189715289-df3ee512-6eca-463f-a0f4-c10d94a06b2f.png" alt="Figma" title="Figma"/></code>
+</div>
+
+<p></p>
+
+## Blurb
 
 - 👯 I’m looking to collaborate on Python related projects.
 - 🤔 I’m hoping to find a volunteer mentor that can guide me on this journey.
 - 💬 Ask me about UX design, website development and grahics design.
 - 📫 How to reach me: codesbyayo@gmail.com
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: When I'm not debugging code, you'll find me on the basketball court perfecting my crossover dribble and three-point shot. 🏀💻
-![My profile picture](https://github.com/ayodejioju/ayodejioju/issues/1#issue-2215426662)
+- ⚡ Fun fact: When I'm not debugging code, you'll find me on the basketball court </br> perfecting my crossover dribble and three-point shot. 🏀💻
+
 <!--
 **ayodejioju/ayodejioju** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
